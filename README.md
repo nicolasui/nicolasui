@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**nicolasui/nicolasui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mi name is Nicolas Caicedo 👋 and I'm a Python developer
+**Field of interests**: Python, Artificial Inteligence, Neural Networks, Machine Learning, Web design
 
-Here are some ideas to get you started:
+### Skills 🛠️
+- **Languages**:&nbsp;                         Python
+- **WEB design**:  &nbsp;&nbsp;                HTML, CSS, JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent activity 🏆
+- I'm learning many concepts of Python
+- I'm focused in a OOP
+
+### -------- Español --------
+### Hola, Mi nombre es Nicolas Caicedo 👋 y soy un desarrollador en Python
+**Intereses**: Python, Inteligencia artificial, Redes neuronales, Machine Learning, Diseño web
+
+### Habilidades 🛠️
+- **Lenguajes**:&nbsp;                         Python
+- **Diseño WEB**:  &nbsp;&nbsp;                HTML, CSS, JS
+
+### Actividad reciente 🏆
+- Estoy aprendiendo conceptos de la programación y practicandolos en Python
+- Estoy enfocado en la Programación Orientada a Objetos
+
